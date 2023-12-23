@@ -1,0 +1,7 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj",
+".\Objects\public.obj",
+".\Objects\LED_controller.obj",
+".\Objects\timer_controller.obj" 
+TO ".\Objects\Electronic_Clock" 
+PRINT(".\Listings\Electronic_Clock.m51") RAMSIZE(256) 
